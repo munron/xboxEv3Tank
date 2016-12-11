@@ -46,4 +46,5 @@ function motorControl(url){
   }
 }
 
+console.log(settings);
 server.listen(settings.port,settings.host)
